@@ -1,0 +1,2 @@
+# 5FonksiyonluHesapMakinesi
+Python ile yazılmış 5FonksiyonluHesapMakinesi uygulamasıdır.
